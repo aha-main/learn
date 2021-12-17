@@ -34,3 +34,4 @@ build/
 target/.idea/*.iml .project .settings .classpath bin/.DS_Store
 mvnw
 mvnw.cmd
+.mvn/
